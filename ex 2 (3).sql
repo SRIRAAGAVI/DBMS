@@ -1,0 +1,3 @@
+use raagavi ;
+alter table department add constraint primary key (deptno);
+select* from department;

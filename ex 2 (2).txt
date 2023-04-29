@@ -1,0 +1,4 @@
+use raagavi;
+alter table faculty add constraint primary key (facno);
+alter table faculty add salary varchar(12);
+select* from faculty;

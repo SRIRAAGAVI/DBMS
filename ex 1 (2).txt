@@ -1,0 +1,7 @@
+use raagavi;
+create table faculty(facno int,fac_name char(30));
+alter tablle faculty and gender char(1);
+alter table faculty add mobile_number int;
+alter table faculty add date_of_join int;
+alter table faculty add date_of_birth int;
+select* from faculty;
